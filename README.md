@@ -1,12 +1,27 @@
-👋 Hi, I’m @Frengocode
-👀 I’m interested in Python development, especially in building web applications and working with data.
-🌱 I’m currently learning advanced concepts in Python and exploring new frameworks like FastAPI and Django.
-💞️ I’m looking to collaborate on open-source Python projects and any innovative tech ideas.
-📫 How to reach me: You can reach me through my GitHub profile or via email at frengocode@wendypython17@gmail.com.
-😄 Pronouns: He/Him
-⚡ Fun fact: I can write Python code faster than I can type!
+# SeaMusic
 
-<!---
-Frengocode/Frengocode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div>
+  <img src="https://img.shields.io/github/license/usmskolyadin/seamusic?style=flat-square&label=license&color=darkgreen">
+  <img src="https://img.shields.io/github/stars/usmskolyadin/seamusic?style=flat-square&label=stars&color=darkgreen">
+  <img src="https://img.shields.io/github/forks/usmskolyadin/seamusic?style=flat-square&label=forks&color=darkgreen">
+  <img src="https://img.shields.io/github/actions/workflow/status/usmskolyadin/seamusic/check.yml?branch=dev&style=flat-square&label=linter&color=darkgreen">
+  <img src="https://img.shields.io/codeclimate/maintainability/usmskolyadin/seamusic?style=flat-square&label=maintainability&color=darkgreen">
+  <img src="https://img.shields.io/codeclimate/coverage/usmskolyadin/seamusic?style=flat-square&label=coverage&color=darkgreen">
+</div>
+
+
+### ✍️ About
+SeaMusic is more than just a website, it's more than just an app for artists, producers and listeners - this is a great platform for so that everyone in the musical field could be what they wanna be and receive benefit from that. This is a huge community of people interested in self-expression, these are networks of channels & stories of their successes
+
+
+### 🚀 Activity
+<img src="https://repobeats.axiom.co/api/embed/5167898f57aaf42154e535c7d378b9f8b18f71ad.svg">
+
+
+### 🛠️ Running
+
+To run this application just follow instructions from backend & frontend READMEs. Alternatively, add .env file with required parameters and use a script for production running
+
+```bash
+./run.sh
+```
