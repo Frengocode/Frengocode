@@ -4,14 +4,14 @@
 </p>
 
 <p align="center">
-  <strong>Backend Developer | API Enthusiast</strong>
+  <strong>Full-stack Developer | API Enthusiast</strong>
 </p>
 
 <p align="center">
   <a href="wendypython17@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/your-github" target="_blank">
+  <a href="https://github.com/Frengocode" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
@@ -67,7 +67,7 @@ Hello! My name is Ibrahim, a backend developer with over 1.5 years of experience
 ---
 
 ### 🌱 Currently Learning
-- Redis
+- Vue
 - Kafka
 - RabbitMQ
 - Advanced API optimization techniques
