@@ -1,7 +1,8 @@
 <!-- <h1 align="left">Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"></h1> -->
 
-<p align="justify">
+<p align="justify"
 👋 Hi there!
+<p/>
 
 # 💫 About Me:
 Hi my name is Ibrahim, I am a backend developer, I have been writing code in Python for a year now, I have worked with frameworks such as Fastapi, Django, DRF, I love writing APIs especially on FastAPI, I would like to delve into Redis, Kafka, RabbitMQ, and I also worked with databases such as PostgreSQL, Sqlite3, now I am deepening my knowledge in writing APIs and doing projects that deepen my knowledge 
@@ -94,7 +95,7 @@ Hi my name is Ibrahim, I am a backend developer, I have been writing code in Pyt
   <h2>Tools</h2>
   <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,insomnia" />
+    <img src="https://skillicons.dev/icons?i=git,github,insom" />
   </a>
 </p>
 
