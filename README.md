@@ -16,7 +16,7 @@ Hi my name is Ibrahim, I am a backend developer, I have been writing code in Pyt
   <h2>Frontend Technologies</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,vue,html,css,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=javascript,vue,react,html,css,bootstrap" />
   </a>
 </p>
   
@@ -59,7 +59,7 @@ Hi my name is Ibrahim, I am a backend developer, I have been writing code in Pyt
   <h2>Devops Technologies</h2>
   <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,pythonanywhere" />
+    <img src="https://skillicons.dev/icons?i=docker," />
   </a>
 </p>
 <div> 
@@ -95,7 +95,7 @@ Hi my name is Ibrahim, I am a backend developer, I have been writing code in Pyt
   <h2>Tools</h2>
   <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,insom" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode, google, gmail, bash, githubactions, stackoverflow, " />
   </a>
 </p>
 
