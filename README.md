@@ -37,9 +37,10 @@ Hi my name is Ibrahim, I am a backend developer, I have been writing code in Pyt
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=django,py,fastapi,djangorestframework,kafka"  />
+    <img src="https://skillicons.dev/icons?i=django,py,fastapi,djangorestframework,kafka" />
   </a>
 </p>
+
  <!-- 
   <img src ="/assets/images/shell.png" alt="Shell logo" width="5%" title='Shell'/>
   <img src ="/assets/images/batch.png" alt="Batch logo" width="5%" title='Batch File'/>
