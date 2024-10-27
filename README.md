@@ -1,103 +1,89 @@
-<!-- <h1 align="left">Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"></h1> -->
+<h1 align="center">Hey there 👋 I'm Ibrahim</h1>
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">
+</p>
 
-<p align="justify"
-👋 Hi there!
-<p/>
+<p align="center">
+  <strong>Backend Developer | API Enthusiast</strong>
+</p>
 
-# 💫 About Me:
-Hi my name is Ibrahim, I am a backend developer, I have been writing code in Python for a year now, I have worked with frameworks such as Fastapi, Django, DRF, I love writing APIs especially on FastAPI, I would like to delve into Redis, Kafka, RabbitMQ, and I also worked with databases such as PostgreSQL, Sqlite3, now I am deepening my knowledge in writing APIs and doing projects that deepen my knowledge 
+<p align="center">
+  <a href="https://linkedin.com/in/your-profile" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:your-email@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/your-github" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
+---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 💫 About Me:
+Hello! My name is Ibrahim, a backend developer with over 1.5 years of experience in writing high-performance APIs in Python. I specialize in frameworks like FastAPI, Django, and DRF, and I'm passionate about building robust, scalable backend systems. I am currently expanding my knowledge in Redis, Kafka, RabbitMQ, and advanced API development techniques. I have experience with PostgreSQL and SQLite3, and I’m always eager to dive into new technologies.
 
-
+---
 
 <div align="center">
-  <h2>Frontend Technologies</h2>
+  <h2>Technologies I Work With</h2>
+</div>
+
+---
+
+### 🖥️ Frontend Technologies
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=javascript,vue,react,html,css,bootstrap" />
   </a>
 </p>
-  
- <!-- <img src ="/assets/images/c.png" alt="C logo" width="6%" title='C'/>
-  <img src ="/assets/images/dart.png" alt="Dart logo" width="5%" title='Dart'/>
-  <img src ="/assets/images/flutter.png" alt="Flutter logo" width="4%" title='Flutter'/>
-  <img src ="/assets/images/javascript.svg" alt="JavaScript logo" width="4%" title='JavaScript'/>
-  <img src ="/assets/images/react.svg" alt="React logo" width="4%" title='React'/>
-  <img src ="/assets/images/gatsby.svg" alt="Gatsby logo" width="4%" title='Gatsby'/>
-  <img src ="/assets/images/html.png" alt="HTML logo" width="5%" title='HTML'/>
-  <img src ="/assets/images/css.png" alt="CSS logo" width="5%" title='CSS'/>
-  <img src ="/assets/images/tailwindcss.svg" alt="tailwindcss logo" width="20%" title='Tailwind CSS'/> -->
-<div> 
-  
-<!-- ### Backend Technologies -->
 
-<div align="center">
-  <h2>Backend Technologies</h2>
-
+### ⚙️ Backend Technologies
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=django,py,fastapi,kafka" />
   </a>
 </p>
 
- <!-- 
-  <img src ="/assets/images/shell.png" alt="Shell logo" width="5%" title='Shell'/>
-  <img src ="/assets/images/batch.png" alt="Batch logo" width="5%" title='Batch File'/>
-  <img src ="/assets/images/nodejs.svg" alt="Node logo" width="5%" title='Nodejs'/>
-  <img src ="/assets/images/python.svg" alt="Python logo" width="5%" title='Python'/>
-  <img src ="/assets/images/cloudflare-workers.png" alt="Cloudflare workers logo" width="5%" title='Cloudflare Workers'/>
-  <img src ="/assets/images/graphql.png" alt="Graphql logo" width="10%" title='Graphql'/>
-  <img src ="/assets/images/api.png" alt="Restful api logo" width="7%" title='Restful API'/> -->
-  
-</div>
-
-<!-- ### Devops Technologies -->
-
-<div align="center">
-  <h2>Devops Technologies</h2>
-  <p align="center">
+### 📦 DevOps & CI/CD
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker," />
+    <img src="https://skillicons.dev/icons?i=docker,githubactions" />
   </a>
 </p>
-<div> 
 
-<!-- ### Database technology -->
-
-<div align="center">
-  <h2>Database Technology</h2>
-  <p align="center">
+### 🗄️ Database Technologies
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=postgresql,sqlite" />
   </a>
 </p>
-  
-</div>
 
-
-<div align="center">
-  <h2>CI/CD</h2>
-  
-  <p align="center">
+### 🛠️ Tools I Use
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=githubactions" />
-  </a>
-</p>
- <!-- <img src ="/assets/images/githubActions.png" alt="Github Actions logo" width="6%" title='Github Actions'/>
-  <img src ="/assets/images/jenkins.png" alt="Jenkins logo" width="5%" title='Jenkins'/> -->
-</div>
-
-<!-- ### Tools -->
-
-<div align="center">
-  <h2>Tools</h2>
-  <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git, github, vscode, gmail, bash, githubactions, stackoverflow" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,gmail,bash,stackoverflow" />
   </a>
 </p>
 
-  
-</div>
+---
+
+### 🌱 Currently Learning
+- Redis
+- Kafka
+- RabbitMQ
+- Advanced API optimization techniques
+
+### 📫 How to reach me
+Feel free to reach out via [Gmail](wendypython17@gmail.com).
+
+---
+
+### ⚡ Fun Fact:
+I love writing highly efficient APIs and exploring new backend technologies to improve performance and scalability.
+
+---
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
