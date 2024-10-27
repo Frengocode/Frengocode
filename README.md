@@ -37,7 +37,7 @@ Hi my name is Ibrahim, I am a backend developer, I have been writing code in Pyt
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=django,py,fastapi,djangorestframework,kafka" />
+    <img src="https://skillicons.dev/icons?i=django,py,fastapi,kafka" />
   </a>
 </p>
 
