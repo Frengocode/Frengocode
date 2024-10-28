@@ -32,7 +32,7 @@ Hello! My name is Ibrahim, a backend developer with over 1.5 years of experience
 ### 🖥️ Frontend Technologies
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,vue,react,html,css,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=javascript,react,react,html,css,bootstrap" />
   </a>
 </p>
 
