@@ -67,9 +67,10 @@ Hello! My name is Ibrahim, a backend developer with over 1.5 years of experience
 ---
 
 ### 🌱 Currently Learning
-- Vue
-- Kafka
-- RabbitMQ
+
+- FastAPI
+- Redis
+- DRF / Django
 - Advanced API optimization techniques
 
 ### 📫 How to reach me
