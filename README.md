@@ -39,7 +39,7 @@ Hello! My name is Ibrahim, a backend developer with over 1.5 years of experience
 ### ⚙️ Backend Technologies
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=django,py,fastapi,kafka" />
+    <img src="https://skillicons.dev/icons?i=django,py,fastapi,redis" />
   </a>
 </p>
 
