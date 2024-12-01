@@ -79,10 +79,3 @@ Hello! My name is Ibrahim, a backend developer with over 1.5 years of experience
 Feel free to reach out via [Gmail](wendypython17@gmail.com).
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-
-
-## 📊 Static GitHub:
-![Статистика](https://github-readme-stats.vercel.app/api?username=Frengocode&show_icons=true&theme=radical)
