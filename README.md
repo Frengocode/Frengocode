@@ -1,2 +1,1 @@
-## 📊 Static GitHub:
-![Static](https://github-readme-stats.vercel.app/api?username=Frengocode&show_icons=true&theme=radical)
+![Frengocode's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Frengocode&theme=monokai&hide_border=true)
