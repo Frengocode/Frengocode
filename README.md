@@ -83,6 +83,4 @@ Feel free to reach out via [Gmail](wendypython17@gmail.com).
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Frengocode&repo=Telegram-App)](https://github.com/Frengocode/Telegram-App)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Frengocode&repo=Project2)](https://github.com/Frengocode/Project2)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Frengocode&repo=Project3)](https://github.com/Frengocode/Project3)
 
