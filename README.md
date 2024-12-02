@@ -79,8 +79,20 @@ Hello! My name is Ibrahim, a backend developer with over 1.5 years of experience
 Feel free to reach out via [Gmail](wendypython17@gmail.com).
 
 
-![Frengocode's Stats](https://github-readme-stats.vercel.app/api?username=Frengocode&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Frengocode&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Frengocode&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Frengocode&show_icons=true" />
+</picture>
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Frengocode&repo=Telegram-App)](https://github.com/Frengocode/Telegram-App)
+
+
 
