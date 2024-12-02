@@ -79,7 +79,7 @@ Hello! My name is Ibrahim, a backend developer with over 1.5 years of experience
 Feel free to reach out via [Gmail](wendypython17@gmail.com).
 
 
-![Frengocode's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Frengocode&theme=tokyonight&hide_border=true)
+![Frengocode's Stats](https://github-readme-stats.vercel.app/api?username=Frengocode&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Frengocode&repo=Telegram-App)](https://github.com/Frengocode/Telegram-App)
