@@ -41,9 +41,11 @@ Hello! My name is Ibrahim, a backend developer with over 1.5 years of experience
 ### ⚙️ Backend Technologies
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=django,py,fastapi,redis, rabbitmq" />
+    <img src="https://skillicons.dev/icons?i=django,py,fastapi,redis" />
   </a>
+  <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" width="48" height="48" alt="RabbitMQ Logo" />
 </p>
+
 
 ### 📦 DevOps & CI/CD
 <p align="center">
