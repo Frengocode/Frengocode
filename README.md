@@ -76,6 +76,7 @@ Hello! My name is Ibrahim, a backend developer with over 1.5 years of experience
 - FastAPI
 - Redis
 - DRF / Django
+- RabbitMQ
 - Advanced API optimization techniques
 
 ### 📫 How to reach me
