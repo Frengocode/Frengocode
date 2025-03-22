@@ -21,7 +21,7 @@
 ---
 
 ### 💫 About Me:
-Hello! My name is Ibrahim, a backend developer with over 1.5 years of experience in writing high-performance APIs in Python. I specialize in frameworks like FastAPI, Django, and DRF, and I'm passionate about building robust, scalable backend systems. I am currently expanding my knowledge in Redis, Kafka, RabbitMQ, and advanced API development techniques. I have experience with PostgreSQL and SQLite3, and I’m always eager to dive into new technologies.
+Hello! My name is Ibrahim, a backend developer with over 2 years of experience in writing high-performance APIs in Python. I specialize in frameworks like FastAPI, Django, and DRF, and I'm passionate about building robust, scalable backend systems. I am currently expanding my knowledge in Redis, Kafka, RabbitMQ, and advanced API development techniques. I have experience with PostgreSQL and SQLite3, and I’m always eager to dive into new technologies.
 
 ---
 
